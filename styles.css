@@ -58,6 +58,7 @@ input {
     padding: 1.2rem 3rem;
     font-family: 'Caveat';
     font-size: 1.8rem;
+    margin-bottom: 2rem;
     font-weight: bold;
     border: 0px;
 }
@@ -89,6 +90,7 @@ input {
 
 .navigation .link-active {
     font-weight: bold;
+    text-decoration: underline;
 }
 
 
